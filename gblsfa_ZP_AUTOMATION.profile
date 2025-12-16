@@ -1,0 +1,8 @@
+username="RO_CE_CIM"
+password="ECIAP#836"
+hostname="napjcep1.crchsh35oml1.ap-southeast-1.rds.amazonaws.com"
+port="25881"
+sid="NAPJCEP1"
+zp_receiver_email="veevaapsamplecheck@organon.com"
+zp_cc_email="Amit.Ghosh@cognizant.com"
+zp_nf_values_receiver_email="vivek.rugale@organon.com; babu.tawfeeq.kotte@organon.com; anup.tayade@organon.com"
